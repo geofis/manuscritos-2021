@@ -65,7 +65,7 @@ Creo que preparar propuestas, escribir informes o priorizar la gestión sobre el
 
 - [ ] Conteo de árboles de aguacate a partir de redes neuronales e imágenes ópticas de resolución espacial métrica.
 
-- [ ] Terrazas del rio Ocoa en su zona media-alta: secuencia cronoestratigráfica.
+- [ ] Terrazas del río Ocoa en su zona media-alta: secuencia cronoestratigráfica.
 
 - [ ] Caracterización de la morfometría de cañones fluvio-kársticos a partir de SfM y modelos digitales de superficie.
 
