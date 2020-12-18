@@ -7,13 +7,13 @@ Tw: @geografiard
 
 GH: @geofis
 
-Mi meta para 2021 o, más bien, para los primeros 6 meses será (además de las clases): escribir y **enviar** 3 manuscritos. Es la primera vez que "fijo" propósitos. La motivación es doble.
+Mi meta para 2021 o, más bien, para los primeros 6 meses será (además de las clases): escribir y **enviar** 3 manuscritos. Es la primera vez que "fijo" propósitos. ¿Por qué? La motivación es doble.
 
-1. Porque quiero cambiar el "es un trabajo en curso" por "estos son los resultados". Visualizar muchos de mis "trabajos en curso", me facilitará concluirlos. No se trata de una competición, se trata de "dar a luz".
+1. Porque quiero cambiar el "es un trabajo en curso" por "este es mi aporte". Visualizar muchos de mis "trabajos en curso" me ayudará a concluirlos. No se trata de una competición, se trata de "dar a luz".
 
 2. Porque quiero seguir haciendo ciencia sin proyecto, sin soporte administrativo, sin fondos. Lo he venido haciendo desde hace tiempo, y me parece que es la mejor opción hasta tanto la "burocracia se una a la ciencia".
 
-¿Qué publicaré? Lógicamente, sobre biogeografía y geomorfología, usando software libre, con datos previamente colectados y por colectar, siguiendo criterio de preproducibilidad. Mi lista de deseos de manuscritos, se encuentra [aquí]().
+¿Qué publicaré? Lógicamente, sobre biogeografía y geomorfología, usando software libre, con datos previamente colectados y por colectar, siguiendo criterio de preproducibilidad. Mi lista de deseos de manuscritos, se encuentra [aquí](#relacion-de-manuscritos-2021).
 
 Prefiero pensar que enviaré manuscritos, y no que publicaré artículos. Además, no prestaré atención al factor de impacto, ni al prestigio ni a la insignia.
 
@@ -27,7 +27,7 @@ Si todo sale bien (y muchas cosas pueden salir mal), a mediados del año próxim
 
 Creo que preparar propuestas, escribir informes o priorizar la gestión sobre el análisis de datos, impide a los científicos generar conocimiento. Parafraseando a @AcademicsSay: "Deberías estar [analyzing data and] escribiendo".
 
-**Relación de manuscritos "reservados" para 2021 (orden aleatorio):**
+## <a name="relacion-de-manuscritos-2021"></a> Relación de manuscritos "reservados" para 2021 (orden aleatorio)
 
 - [ ] Pérdida de bosque y fuego en República Dominicana durante el siglo XXI.
 
@@ -47,7 +47,7 @@ Creo que preparar propuestas, escribir informes o priorizar la gestión sobre el
 
 - [ ] Fuego y sequía en República Dominicana durante el siglo XXI.
 
-**"Fondo" (2022 y más allá)**
+## "Fondo" (2022 y más allá)
 
 - [ ] Granulometría de gravas superficiales en la llanura de inundación de un río tropical de República Dominican: ordenación y análisis espacial.
 
@@ -79,11 +79,11 @@ Creo que preparar propuestas, escribir informes o priorizar la gestión sobre el
 
 My goal for 2021 or, rather, for the first 6 months will be (in addition to teching): to write and **send** 3 manuscripts. This is the first time I make new year's resolutions. Why? Two reasons motivate me:
 
-1. Because I want to change the "it's a work in progress" for "this manuscript summarizes ...". Visualizing many of my "works in progress" will make it easier for me to complete them. This is not a competition, it's about "giving birth"
+1. Because I want to change the "it's a work in progress" for "this is my contribution". Visualizing many of my "works in progress" will make it easier for me to complete them. This is not a competition, it's about "giving birth"
 
 2. Because I want to continue doing science without a project, without staff support and without funding. I've been doing science this way for a while, and I think this is my best choice until bureaucracy meets science.
 
-What will I publish? Obviously, I will write about biogeography and geomorphology, using free software, with data previously collected and to be collected, following preproducibility criteria. My wish list of manuscripts is [here]().
+What will I publish? Obviously, I will write about biogeography and geomorphology, using free software, with data previously collected and to be collected, following preproducibility criteria. My wish list of manuscripts is [here](#list-of-manuscripts-2021).
 
 I prefer to think that I will send manuscripts, not that I will publish articles. In addition, I won't focus on impact factor, prestige or a badge.
 
@@ -97,7 +97,7 @@ If everything goes well (and many things could go wrong), by mid-year, I will ch
 
 I think that preparing proposals, writing reports or prioritizing management over data analysis, prevent scientist from generating knowledge. Paraphrasing [@AcademicsSay](https://twitter.com/AcademicsSay): "You should be [analyzing data and] writing".
 
-List of "reserved" manuscripts for 2021 (randomly sorted):
+## <a name="list-of-manuscripts-2021"></a> List of "reserved" manuscripts for 2021 (randomly sorted)
 
 - [ ] Forest loss and fire in the Dominican Republic during the 21st century.
 
@@ -117,7 +117,7 @@ List of "reserved" manuscripts for 2021 (randomly sorted):
 
 - [ ] Fire and drought in the Dominican Republic during the 21st century.
 
-**Pool (2022 and beyond)**
+## Pool (2022 and beyond)
 
 - [ ] Grain size of surface gravel in a tropical river floodplain of the Dominican Republic: ordination and spatial analysis.
 
