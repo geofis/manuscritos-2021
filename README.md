@@ -49,7 +49,7 @@ Creo que preparar propuestas, escribir informes o priorizar la gestión sobre el
 
 ## "Fondo" (2022 y más allá)
 
-- [ ] Granulometría de gravas superficiales en la llanura de inundación de un río tropical de República Dominican: ordenación y análisis espacial.
+- [ ] Granulometría de gravas superficiales en la llanura de inundación de un río tropical de República Dominicana: ordenación y análisis espacial.
 
 - [ ] Cartografía geomorfológica de la cuenca del río Ocoa a partir de SfM y modelos digitales de superficie.
 
@@ -59,7 +59,7 @@ Creo que preparar propuestas, escribir informes o priorizar la gestión sobre el
 
 - [ ] Ordenación restringida de comunidades de plantas a partir de datos de GBIF: sesgo, patrones, tendencias.
 
-- [ ] Medición de la deformación superficial en el deslizamiento Los Lazos (Azua, República Dominican) a partir de small baseline subset (SBAS).
+- [ ] Medición de la deformación superficial en el deslizamiento Los Lazos (Azua, República Dominicana) a partir de small baseline subset (SBAS).
 
 - [ ] Estimación del porcentaje de cobertura arbórea de bosque semideciduo a partir de imágenes de resolución espacial métrica y submétrica.
 
