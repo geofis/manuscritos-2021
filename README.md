@@ -1,11 +1,11 @@
 # Lista de manuscritos para 2021
-Por José Ramón Martínez Batlle
+José Ramón Martínez Batlle
 
-*(English version below)*
-
-Tw: @geografiard
+Tw: [@geografiard](https://twitter.com/geografiard)
 
 GH: @geofis
+
+*[English version below](#english-version)*
 
 Mi meta para 2021 o, más bien, para los primeros 6 meses será (además de las clases): escribir y **enviar** 3 manuscritos. Es la primera vez que "fijo" propósitos. ¿Por qué? La motivación es doble.
 
@@ -75,7 +75,7 @@ Creo que preparar propuestas, escribir informes o priorizar la gestión sobre el
 
 ----
 
-# List of manuscripts for 2021
+# <a name="english-version"></a> List of manuscripts for 2021
 
 My goal for 2021 or, rather, for the first 6 months will be (in addition to teching): to write and **send** 3 manuscripts. This is the first time I make new year's resolutions. Why? Two reasons motivate me:
 
