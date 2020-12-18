@@ -1,9 +1,9 @@
 # Lista de manuscritos para 2021
 José Ramón Martínez Batlle
 
-Tw: [@geografiard](https://twitter.com/geografiard)
+Tw: [\@geografiard](https://twitter.com/geografiard)
 
-GH: @geofis
+GH: [\@geofis](https://github.com/geofis)
 
 *[English version below](#english-version)*
 
