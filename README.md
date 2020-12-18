@@ -77,7 +77,7 @@ Creo que preparar propuestas, escribir informes o priorizar la gestión sobre el
 
 # <a name="english-version"></a> List of manuscripts for 2021
 
-My goal for 2021 or, rather, for the first 6 months will be (in addition to teching): to write and **send** 3 manuscripts. This is the first time I make new year's resolutions. Why? Two reasons motivate me:
+My goal for 2021 or, rather, for the first 6 months, will be (in addition to teching): to write and **send** 3 manuscripts. This is the first time I make new year's resolutions. Why? Two reasons motivate me:
 
 1. Because I want to change the "it's a work in progress" for "this is my contribution". Visualizing many of my "works in progress" will make it easier for me to complete them. This is not a competition, it's about "giving birth"
 
