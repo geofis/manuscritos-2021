@@ -49,7 +49,7 @@ Creo que preparar propuestas, escribir informes o priorizar la gestión sobre el
 
 ## "Fondo" (2022 y más allá)
 
-- [ ] Granulometría de gravas superficiales en la llanura de inundación de un río tropical de República Dominicana: ordenación y análisis espacial.
+- [ ] Granulometría de gravas superficiales en la llanura de inundación de un río tropical: ordenación y análisis espacial.
 
 - [ ] Cartografía geomorfológica de la cuenca del río Ocoa a partir de SfM y modelos digitales de superficie.
 
@@ -119,7 +119,7 @@ I think that preparing proposals, writing reports or prioritizing management ove
 
 ## Pool (2022 and beyond)
 
-- [ ] Grain size of surface gravel in a tropical river floodplain of the Dominican Republic: ordination and spatial analysis.
+- [ ] Grain size of surface gravel in a tropical river floodplain: ordination and spatial analysis.
 
 - [ ] Using SfM and digital surface models for geomorphological mapping of the Ocoa River basin.
 
