@@ -29,7 +29,9 @@ Creo que preparar propuestas, escribir informes o priorizar la gestión sobre el
 
 ## <a name="relacion-de-manuscritos-2021"></a> Relación de manuscritos "reservados" para 2021 (orden aleatorio)
 
-- [ ] Pérdida de bosque y fuego en República Dominicana durante el siglo XXI.
+- [x] ~~Asociaciones de comunidades de plantas con variables ambientales en un bosque tropical semideciduo de República Dominicana~~. [Preprint](https://www.biorxiv.org/content/10.1101/2020.08.04.235390v1.full)
+
+- [x] ~~Pérdida de bosque y fuego en República Dominicana durante el siglo XXI~~. [Preprint](https://www.biorxiv.org/content/10.1101/2021.06.15.448604v1)
 
 - [ ] Medición del tamaño superficial de gravas en una llanura de inundación tropical usando SfM aplicado a imágenes tomadas por drone y *machine learning*.
 
@@ -99,7 +101,9 @@ I think that preparing proposals, writing reports or prioritizing management ove
 
 ## <a name="list-of-manuscripts-2021"></a> List of "reserved" manuscripts for 2021 (randomly sorted)
 
-- [ ] Forest loss and fire in the Dominican Republic during the 21st century.
+- [x] ~~Plant community associations with environmental variables in a semi-deciduous tropical forest of the Dominican Republic~~. [Preprint](https://www.biorxiv.org/content/10.1101/2020.08.04.235390v1.full)
+
+- [x] ~~Forest loss and fire in the Dominican Republic during the 21st century~~. [Preprint](https://www.biorxiv.org/content/10.1101/2021.06.15.448604v1)
 
 - [ ] Using UAV imagery, SfM and machine learning to measure the surface grain size of gravel deposits in a tropical floodplain.
 
