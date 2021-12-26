@@ -29,19 +29,19 @@ Creo que preparar propuestas, escribir informes o priorizar la gestión sobre el
 
 ## <a name="relacion-de-manuscritos-2021"></a> Relación de manuscritos "reservados" para 2021 (orden aleatorio)
 
-- [x] ~~Asociaciones de comunidades de plantas con variables ambientales en un bosque tropical semideciduo de República Dominicana~~. [Preprint](https://www.biorxiv.org/content/10.1101/2020.08.04.235390v1.full)
+- [x] ~~Asociaciones de comunidades de plantas con variables ambientales en un bosque tropical semideciduo de República Dominicana~~. [Publicado](https://doi.org/10.1080/23766808.2021.1987769). [Preprint](https://www.biorxiv.org/content/10.1101/2020.08.04.235390v1.full)
 
-- [x] ~~Pérdida de bosque y fuego en República Dominicana durante el siglo XXI~~. [Preprint](https://www.biorxiv.org/content/10.1101/2021.06.15.448604v1)
+- [x] ~~Pérdida de bosque y fuego en República Dominicana durante el siglo XXI~~. [Preprint](https://www.biorxiv.org/content/10.1101/2021.06.15.448604v2). [Diapositivas](https://geofis.github.io/forest-loss-fire-reproducible/#/). [Vídeo de presentación](https://www.youtube.com/watch?v=jcf0B_y2fuc&t=2390s).
 
 - [ ] Medición del tamaño superficial de gravas en una llanura de inundación tropical usando SfM aplicado a imágenes tomadas por drone y *machine learning*.
 
-- [ ] Medición de la deformación superficial en la ciudad de Santo Domingo a partir de small baseline subset (SBAS).
+- [ ] Medición de la deformación superficial en la ciudad de Santo Domingo a partir de small baseline subset (SBAS). [Diapositivas](https://geofis.github.io/sd-sbas/#/). [Vídeo de presentación](https://www.youtube.com/watch?v=Tq1QtuSkwLE&t=5585s).
 
 - [ ] Asociación con variables ambientales de comunidades de plantas en un bosque seco de República Dominicana.
 
 - [ ] Medición de la deformación superficial en la cuenca del río Ocoa a partir de small baseline subset (SBAS).
 
-- [ ] Cartografía geomorfológica de gran escala de 1 kilómetro de río tropical a partir de SfM e imágenes tomadas por drone.
+- [ ] Cartografía geomorfológica de gran escala de 1 kilómetro de río tropical a partir de SfM e imágenes tomadas por drone. [Diapositivas](https://geofis.github.io/geomorfologia-detalle-tramo-1km-rio-mana/#/). [Vídeo de presentación](https://www.youtube.com/watch?v=Tq1QtuSkwLE&t=3162s).
 
 **Bonus, no dependen sólo de mí:**
 
