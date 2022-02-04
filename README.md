@@ -35,13 +35,13 @@ Creo que preparar propuestas, escribir informes o priorizar la gestión sobre el
 
 - [ ] Medición del tamaño superficial de gravas en una llanura de inundación tropical usando SfM aplicado a imágenes tomadas por drone y *machine learning*.
 
-- [ ] Medición de la deformación superficial en la ciudad de Santo Domingo a partir de small baseline subset (SBAS). [Diapositivas](https://geofis.github.io/sd-sbas/#/). [Vídeo de presentación](https://www.youtube.com/watch?v=Tq1QtuSkwLE&t=5585s).
+- [x] ~~Medición de la deformación superficial en la ciudad de Santo Domingo a partir de small baseline subset (SBAS)~~. [Diapositivas](https://geofis.github.io/sd-sbas/#/). [Vídeo de presentación](https://www.youtube.com/watch?v=Tq1QtuSkwLE&t=5585s).
 
 - [ ] Asociación con variables ambientales de comunidades de plantas en un bosque seco de República Dominicana.
 
 - [ ] Medición de la deformación superficial en la cuenca del río Ocoa a partir de small baseline subset (SBAS).
 
-- [ ] Cartografía geomorfológica de gran escala de 1 kilómetro de río tropical a partir de SfM e imágenes tomadas por drone. [Diapositivas](https://geofis.github.io/geomorfologia-detalle-tramo-1km-rio-mana/#/). [Vídeo de presentación](https://www.youtube.com/watch?v=Tq1QtuSkwLE&t=3162s).
+- [x] ~~Cartografía geomorfológica de gran escala de 1 kilómetro de río tropical a partir de SfM e imágenes tomadas por drone~~. [Diapositivas](https://geofis.github.io/geomorfologia-detalle-tramo-1km-rio-mana/#/). [Vídeo de presentación](https://www.youtube.com/watch?v=Tq1QtuSkwLE&t=3162s).
 
 **Bonus, no dependen sólo de mí:**
 
